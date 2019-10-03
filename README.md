@@ -7,7 +7,7 @@ This app is a simple gallery application that displays images in a grid. The ima
 ## Getting Started
 To set up the test environment and get this app running locally all you need to do is:
 1. Make sure you have a [Gitlab](https://gitlab.org) account
-2. [Import this repository](https://docs.gitlab.com/ee/user/project/import/repo_by_url.html) to your Gitlab account as a private repository. Use this as the import URL: https://github.com/wix-incubator/exposure-fed-exam
+2. [Import this repository](https://docs.gitlab.com/ee/user/project/import/repo_by_url.html) to your Gitlab account as a private repository. Use this as the import URL: https://github.com/wix-incubator/fed-gallery-exam
 3. Clone your newly created repository
 4. In the created folder install the node modules `npm install`
 5. Run the app `npm start`
@@ -56,7 +56,7 @@ Each image has three buttons that appear on mouse hover. You need to make them w
 ## Submitting your project
 After you've completed your tasks, and you are ready to submit it, do the following:
 1. Make sure all the code is committed and pushed
-2. Add "students-fed-exam@wix.com" as a user to the repo (Master permission)
+2. Add "itaibd@wix.com" as a user to the repo (Master permission)
 3. Send us an email with your repo link
 4. Profit!
 
